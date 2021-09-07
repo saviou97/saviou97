@@ -1,7 +1,6 @@
 ### Olá! Sou Sávio, Seja Bem-vindo 👋
 
 <div>
-  <a href="beacons.ai/saviou97">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saviou97&count_private=true&inclouds_all_commits=true&show_icons=true&theme=algolia"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saviou97&layout=compact&langs_count=16&theme=algolia"/>
 </div>
